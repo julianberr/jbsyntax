@@ -1,0 +1,2 @@
+# jbsyntax
+Atom Syntax Theme
