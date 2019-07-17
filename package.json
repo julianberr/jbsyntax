@@ -1,0 +1,15 @@
+{
+  "name": "jb-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "This is my custom syntax theme based on One Dark",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/jb-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
